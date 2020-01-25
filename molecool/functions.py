@@ -1,7 +1,7 @@
 """
 functions.py
 My first project.
-
+s
 Handles the primary functions
 """
 
